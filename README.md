@@ -1,5 +1,7 @@
 # JsClock
 
+[JS Clock](https://atif-dev.github.io/JsClock/)
+
 ##################################################
 Made js clock in winter. Kind of Animated type
 ##################################################
