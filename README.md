@@ -3,7 +3,7 @@
 [JS Clock](https://atif-dev.github.io/JsClock/)
 
 ################################################## <br/>
-Made js clock in winter. Kind of Animated type
+Made js clock in winter. Kind of Animated type <br/>
 ################################################## <br/>
 
 Made with the help of followings + my own skills:<br/>
